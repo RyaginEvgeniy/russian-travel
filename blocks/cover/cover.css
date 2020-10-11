@@ -8,18 +8,31 @@
   background-size: cover;
   flex-direction: column;
   left: calc(48px);
+<<<<<<< HEAD
   width: calc(100% - 96px);
+=======
+  width: calc(100% - 96px); 
+>>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
   height: 740px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
+<<<<<<< HEAD
     left: 0;
     width: 100%;
     height: 640px;
   }
 }
 
+=======
+  left: 0;
+  width: 100%;
+  height: 640px;
+   }
+}
+  
+>>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .cover {
     margin-top: 88px;
@@ -28,7 +41,11 @@
     height: 480px;
   }
 }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .cover {
     margin-top: 43px;
@@ -36,4 +53,8 @@
     width: 100%;
     height: 200px;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
