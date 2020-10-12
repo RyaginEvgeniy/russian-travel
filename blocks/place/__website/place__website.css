@@ -3,45 +3,25 @@
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 1;
-<<<<<<< HEAD
   grid-row-end: 2;
-=======
-  grid-row-end: 2; 
-  max-width: 456px;  
->>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
   max-height: 46px;
   align-self: end;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place__website {
-<<<<<<< HEAD
     max-width: 456px;
   }
 }
 
-=======
-   max-width: 456px;
-  }
-}
-  
->>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .place__website {
     max-width: 352px;
   }
 }
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .place__website {
     display: none;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> fa915af32f3e55fd5ad3c518a82cbfc9370b1416

@@ -3,7 +3,7 @@
   display: flex;
   margin-top: 28px;
   justify-content: space-between;
-  left: calc(48px);
+  left: 48px;
   max-width: calc(100% - 96px);
   max-height: 52px;
   align-items: center;
@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .header {
-    left: calc(24px);
+    left: 24px;
     width: calc(100% - 48px);
   }
 }
