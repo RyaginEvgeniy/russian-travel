@@ -11,5 +11,6 @@
  3 Grid layout
 
  В ближайшее время планируется внедрение технологий javascript. Это позволит сделать проект более информативным и мультимедийным.
+ ССылка на проект: https://ryaginevgeniy.github.io/russian-travel/index.html
 
 
