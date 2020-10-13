@@ -23,7 +23,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: left;
-    height: 310px;
+    height: auto;
     left: 16px;
   }
 }

@@ -2,7 +2,7 @@
   margin: 0 auto;
   left: calc(132px);
   width: calc(100% - 264px);
-  max-height: 200px;
+  height: auto;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
@@ -17,7 +17,6 @@
     margin: 0 auto;
     left: 104px;
     width: calc(100% - 208px);
-    max-height: 200px;
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
